@@ -12,9 +12,8 @@
     <p style="color:#8080FF">Créez un formulaire avec les champs "nom" et "prénom". 
     À l'envoie du formulaire sur une autre page, Affichez les informations saisies.</p>
     
-        <a href="index.php?nom=MOLINA&amp;prenom=Emilie">lien</a>
     <?php
-    echo 'Nom : '.$_GET['nom'].' '.'Prénom : ' .$_GET['prenom'];
+
     ?>
 </body>
 </html>
